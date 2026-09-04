@@ -1,3 +1,8 @@
+# 原始链接
+https://github.com/codeman008/Financial_freedom
+但原始链接readme已经全改为英文，不适合我
+
+
 # :moneybag: Financial_freedom :moneybag:
 
 ## Technical guide to making money and investing 
